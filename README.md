@@ -4,6 +4,12 @@ Hello! 👋 This is the 1st of 2 challenges eggX will be putting out (think of a
 
 You'll get to work on a theme (say design, algorithms, project management) for a couple weeks & get to present it at the end! 😎
 
+## Dates
+
+Start: 4th October
+
+End: 31st October
+
 ## Details
 
 Your challenge is to write a function (or several) that will process 4GB of random textual data. You can build the algorithm in whatever language you like.
@@ -54,5 +60,7 @@ You must assume that your function will only have access to the files in your so
 ---
 
 We'll be handing out prizes to 1st, 2nd, & 3rd placers & will make honorable mentions of people with unique solutions 👩‍🔬
+
+This repository will be updated with various solutions once the challenge is over.
 
 Good luck! 😁 🎉
