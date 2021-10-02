@@ -57,6 +57,23 @@ You must assume that your function will only have access to the files in your so
 * Your solution must use the least amount of memory
 * Your solution must use the least amount of storage
 
+### Tips
+
+To build the perfect solution try and consider these concepts:
+* Iteration vs recursion
+* sync vs async
+* memory efficiency
+* effects of accessing IO (files)
+
+The more you know about the above, the more prepared you'll be not just to solve this challenge but to do very well in these Carleton classes:
+* COMP 1805
+* COMP 2402
+* COMP 2804
+* COMP 3000
+* COMP 3804
+
+... Not to mention the bucket loads of internships that'll be calling your name! 🤯
+
 ---
 
 We'll be handing out prizes to 1st, 2nd, & 3rd placers & will make honorable mentions of people with unique solutions 👩‍🔬
